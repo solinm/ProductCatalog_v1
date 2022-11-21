@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142338334860",
+    "project_id": "productcatalog-f510e",
+    "storage_bucket": "productcatalog-f510e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142338334860:android:1ab3e0dec5664111619ba9",
+        "android_client_info": {
+          "package_name": "mgarzon.createbest.productcatalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142338334860-j07c73qtcenbhin1b94bfqu3drinviob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYe6KHciK_78ou4ufvHepWhcO1LMTfvF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142338334860-j07c73qtcenbhin1b94bfqu3drinviob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
