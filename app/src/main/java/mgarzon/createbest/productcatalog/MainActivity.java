@@ -29,6 +29,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
+    // lab 8
     EditText editTextName;
     EditText editTextPrice;
     Button buttonAddProduct;
